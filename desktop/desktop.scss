@@ -108,6 +108,7 @@ body[class*="categories-list"] #homepage-banner {display: none;}
     -webkit-box-shadow: -10px 10px 12px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: -10px 10px 12px 0px rgba(0,0,0,0.75);
     box-shadow: -10px 10px 12px 0px rgba(0,0,0,0.75);
+    margin-top: -30px !important;
 }
 @media(max-width: 480px) {    
     .welcome-message .links {
